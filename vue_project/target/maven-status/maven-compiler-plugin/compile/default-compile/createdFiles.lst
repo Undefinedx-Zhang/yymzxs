@@ -1,0 +1,9 @@
+com\huawei\web\controller\UserController.class
+com\huawei\web\entity\Reserve.class
+com\huawei\web\common\AjaxResult.class
+com\huawei\DemoApplication.class
+com\huawei\web\common\constant\HttpStatus.class
+com\huawei\web\controller\ReserveController.class
+com\huawei\web\mapper\ReserveMapper.class
+com\huawei\web\mapper\UserMapper.class
+com\huawei\web\entity\User.class
